@@ -1,4 +1,4 @@
-List of resources for things infectious disease and Japan<br><br>
+List of privately maintained (publicly shared) documents for things infectious disease and Japan<br><br>
 
 **Google spreadsheets**<br>
 [English-Japanese infectious disease glossary](https://docs.google.com/spreadsheets/d/1uaSngMRffLfG-6GO0EvAq4aoxQVn_ihsWQW8YpZzEUE/edit?usp=sharing)<br>
