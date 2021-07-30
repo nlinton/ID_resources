@@ -1,4 +1,4 @@
-﻿date,airport_ntests,airport_npos,screening_ntests,screening_npos,other_npos,total_npos,cum_total_npos,cum_narrivals
+﻿date,airport_ntests,airport_npos,screening_ntests,screening_npos,other_npos,total_npos,cum_total_npos,cum_airport_ntests
 7/16/2021,3158,4,6195,4,7,15,NA,NA
 7/17/2021,4149,7,8185,2,5,14,NA,NA
 7/18/2021,4801,2,11869,0,1,3,58,28660
@@ -11,3 +11,4 @@
 7/25/2021,1108,2,35202,10,4,16,153,37579
 7/26/2021,886,0,35517,5,2,7,160,38484
 7/27/2021,725,0,35178,7,7,14,174,39029
+7/28/2021,664,2,36621,8,14,24,198,39853
