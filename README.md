@@ -1,8 +1,7 @@
-List of privately maintained (publicly shared) documents.<br><br>
+List of privately maintained (publicly shared) infectious disease (ID) resources.<br><br>
 
 **Disease-specific ID resources**<br>
 [Mpox literature](https://docs.google.com/document/d/1mGkJYwZ8tz5XSmZM--xg683hvowYy5AtxegQEiuf2B0/edit?usp=sharing)<br>
-<br>
 <br>
 
 **Japan ID resources**<br>
